@@ -23,7 +23,7 @@
 
 ###
 
-<h4 align="center">👩‍💻  About Me <br>I don't just build websites; I build systems that move. From interactive Xcode clones to high-performance GSAP dashboards, I focus on the intersection of design and code. UI/UX Developer @ Globussoft.</h4>
+<h4 align="center">👩‍💻  About Me <br>I don't just build websites; I build systems that move. From interactive Xcode clones to high-performance GSAP dashboards, I focus on the intersection of design and code. UI/UX Developer @ Globussoft</h4>
 
 ###
 
